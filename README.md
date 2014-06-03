@@ -10,7 +10,6 @@ with,
 ```
 cd /example/directory/digit_recognizer
 python knn.py
-
 ```
 
 A sample submission file has also been included.
